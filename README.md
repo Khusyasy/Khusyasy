@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning all about Javascript
 - 💬 Ask me why and i will tell you a thousand reason why
-- ⚡ Fun fact: anything written already existed in the [Library of Babel](https://libraryofbabel.info/)
+- ⚡ Fun fact: anything written probably already existed in the [Library of Babel](https://libraryofbabel.info/)
 
 ## Technologies 💻
 
