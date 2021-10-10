@@ -26,3 +26,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+[![Luthfi Khusyasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusyasy&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusyasy&count_private=true&theme=vue-dark&hide=html,php,blade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
