@@ -17,8 +17,8 @@ I'm Khusyasy, a Fullstack Website Developer.
 ### Stats⚡
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=khusyasy&count_private=true&theme=vue-dark" alt="Luthfi Khusyasy's GitHub stats" />
+  <img height="180" align="center" src="./profile/stats.svg" alt="Luthfi Khusyasy's GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusyasy&count_private=true&theme=vue-dark&hide=html,php,blade&layout=compact" alt="Top Langs" />
+  <img height="180" align="center" src="./profile/top-langs.svg" alt="Top Langs" />
 </a>
